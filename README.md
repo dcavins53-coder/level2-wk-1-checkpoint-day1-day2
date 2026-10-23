@@ -17,6 +17,18 @@
 | 1   | Made the repo on GitHub with a README | Initial commit   | main   |
 | 2   | Created my first page                 | Add first page   | main   |
 | 3   | Updated home page                     | Update home page | main   |
+| 4   | ba9bbc2 add my goals section
+| 5   | e52d076 add list of things i like
+| 6   | 5644540 added about me
+| 7   | 8bca428 level 2
+| 8   | 12580cf Initial commit
+
+
+
+
+
+
+ 
 
 Run git log --oneline to see all commits. Add a new row to the table for every commit you make (aim for at least 5 by Friday), then push:
 
