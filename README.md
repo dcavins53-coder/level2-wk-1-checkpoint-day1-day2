@@ -24,10 +24,6 @@
 | 8   | 12580cf Initial commit
 
 
-
-
-
-
  
 
 Run git log --oneline to see all commits. Add a new row to the table for every commit you make (aim for at least 5 by Friday), then push:
